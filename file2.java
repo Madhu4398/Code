@@ -1,8 +1,4 @@
-import java.math.BigInteger;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Random;
-import java.util.Scanner;
+
 
 //for a number n, stores all prime factors and frequencies in a hashmap
 public class pollardrho {
